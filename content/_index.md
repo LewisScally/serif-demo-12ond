@@ -6,9 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 # A Hugo Business Theme.
 
-Template 1. contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated. 
-
-Perfect for 
+Perfect for
 
 *   Startup
 
@@ -16,4 +14,7 @@ Perfect for
 
 *   Accounting & Finance
 
-*   Legal 
+*   Legal
+
+Template 1. Contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+
